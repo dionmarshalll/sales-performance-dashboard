@@ -84,8 +84,7 @@ Key preparation steps:
 - Merged/joined tables where necessary to build consistent dimensions and facts.
 - Structured the dataset into a dimensional model to support fast slicing and reliable aggregation.
 
-> 📌 Optional improvement for documentation: include a short “Power Query transformation log” in `/docs/` (even 8–12 bullet steps is already very professional).
-
+📌 Full list: [Power Query Steps](./docs/power_query_steps.md)
 ---
 
 ## Data Modeling (Star Schema)
@@ -289,11 +288,11 @@ Breakdowns:
 ---
 
 ## Project Files
-- `dashboard.pbix` : *(add link or store in repo if file size allows)*
+- `dashboard.pbix` : [Dashboard](.sales_performance_analysis.pbix)
 - `assets/` : screenshots + schema image
 - `docs/` : data dictionary + transformation notes
 
-> Suggested repo structure:
+> Repo structure:
 > - `/assets/schema.png`
 > - `/assets/revenue_view.png`
 > - `/assets/customer_view.png`
