@@ -123,6 +123,8 @@ This dashboard is powered by an extensive **DAX measure library** to standardize
 
 📌 Full list: [DAX Measure Library](./docs/dax-measure-library.md)
 
+---
+
 ## Dashboard Pages
 ### 1) Revenue View
 Focus: performance trends + revenue drivers by lead source/channel/campaign/region/country.
