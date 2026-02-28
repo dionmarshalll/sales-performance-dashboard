@@ -114,6 +114,15 @@ I built a dimensional model with a central fact table and multiple dimension tab
 
 ---
 
+## DAX Highlights (Measure-Driven Dashboard)
+This dashboard is powered by an extensive **DAX measure library** to standardize KPIs and improve usability:
+- KPI packs for each metric (PY, Variance, Growth %, Growth Arrow, Color)
+- Time intelligence comparisons (2022–2024)
+- Contribution measures (e.g., Revenue % of Lead Source)
+- UX helpers (dynamic titles/tooltips & conditional formatting)
+
+📌 Full list: [DAX Measure Library](./docs/dax-measure-library.md)
+
 ## Dashboard Pages
 ### 1) Revenue View
 Focus: performance trends + revenue drivers by lead source/channel/campaign/region/country.
