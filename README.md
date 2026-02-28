@@ -2,7 +2,7 @@
 
 ## Overview
 This project delivers a **Retail Omnichannel Sales Performance Dashboard (2022–2024)** built in **Power BI** to help Sales & Marketing stakeholders monitor historical performance and understand what drives **revenue** and **profitability**.  
-I consolidated five raw CSV files into a structured dimensional model (star schema), performed data cleaning and transformations in Power Query, and designed three analytical views—**Revenue, Customer, and Product**—to surface key trends, top contributors, and actionable insights across channels, lead sources, campaigns, and countries.
+I consolidated five raw CSV files into a structured dimensional model (star schema), performed data cleaning and transformations in Power Query, and designed three analytical views, as **Revenue, Customer, and Product**, to surface key trends, top contributors, and actionable insights across channels, lead sources, campaigns, and countries.
 
 ---
 
@@ -19,7 +19,7 @@ I consolidated five raw CSV files into a structured dimensional model (star sche
 ## Business Context (Retail Omnichannel)
 A retail business sells through multiple **sales channels** and acquires leads via different **lead sources** (email, referral, social media, cold calling, website) while running periodic **marketing campaigns**. Stakeholders need a clear, consistent view of performance across **channels, campaigns, and geographies**.
 
-However, the data is originally stored in multiple CSV files, making analysis time-consuming and prone to inconsistencies. This dashboard centralizes the data and provides decision-ready insights.
+However, the data is originally stored in multiple CSV files, making analysis time, wich consuming and prone to inconsistencies. This dashboard centralizes the data and provides decision as ready insights.
 
 ---
 
@@ -109,7 +109,7 @@ I built a dimensional model with a central fact table and multiple dimension tab
 **Why star schema?**
 - Cleaner relationships (1-to-many), fewer ambiguities
 - Easier slicing (customer/product/channel/country)
-- More scalable and recruiter-recognizable as “analytics-ready modeling”
+- More scalable and recruiter, recognizable as “analytics-ready modeling”
 
 ---
 
